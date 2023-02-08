@@ -1,0 +1,3 @@
+[submodule "registry_utils"]
+	path = registry_utils
+	url = https://github.com/actapia/registry_utils
